@@ -5,7 +5,7 @@
 
 I am study from Alura.
 
-I am study JavaScript.
+I am learnig JavaScript, HTML and CSS.
 
 I do Arduino Project.(inexpierence).
 
