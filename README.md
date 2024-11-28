@@ -2,7 +2,6 @@
 😄
 **Welcome to my profile.**
 
-
 I am study from Alura.
 
 I am learnig JavaScript, HTML and CSS.
